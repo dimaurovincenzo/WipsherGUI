@@ -1,0 +1,17 @@
+Lib/
+Include/
+Scripts/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.egg-info/
+*.dist-info/
+*.whl
+*.log
+.DS_Store
+.env
+venv/
+models/ 

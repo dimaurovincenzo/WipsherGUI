@@ -1,0 +1,6 @@
+PyQt6>=6.0
+torch>=1.7
+psutil
+openai-whisper
+numpy
+requests
