@@ -35,5 +35,3 @@ python main.py
 
 
 
-## Licenza
-Specifica qui la licenza del tuo progetto (ad esempio MIT, GPL, ecc.). 
